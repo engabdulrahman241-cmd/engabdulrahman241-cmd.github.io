@@ -10,7 +10,7 @@ I'm an AI student passionate about Machine Learning and software development. I 
 - Building practical and scalable applications
 
 ### Technologies
-HTML · CSS · JavaScript · Python
+HTML · CSS · Python
 
 ### Portfolio
 Explore my projects and learn more about my work.
